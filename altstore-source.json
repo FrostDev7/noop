@@ -18,6 +18,69 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "4.0.1",
+          "buildVersion": "93",
+          "date": "2026-06-15",
+          "localizedDescription": "Today's Effort goes live, plus sleep & alarm honesty",
+          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v4.0.1/NOOP-v4.0.1-ios.ipa",
+          "size": 7783261,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "4.0.0",
+          "buildVersion": "92",
+          "date": "2026-06-15",
+          "localizedDescription": "Your Fitness Age, Vitality and Body Age",
+          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v4.0.0/NOOP-v4.0.0-ios.ipa",
+          "size": 7774029,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.9.1",
+          "buildVersion": "91",
+          "date": "2026-06-15",
+          "localizedDescription": "A round of fixes: reconnect, exports and Health setup",
+          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v3.9.1/NOOP-v3.9.1-ios.ipa",
+          "size": 7679582,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.9.0",
+          "buildVersion": "90",
+          "date": "2026-06-15",
+          "localizedDescription": "Multi-WHOOP device management + honest per-device capabilities",
+          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v3.9.0/NOOP-v3.9.0-ios.ipa",
+          "size": 7676483,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.8.0",
+          "buildVersion": "89",
+          "date": "2026-06-15",
+          "localizedDescription": "Connect a heart-rate strap (early access)",
+          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v3.8.0/NOOP-v3.8.0-ios.ipa",
+          "size": 7519377,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.7.1",
+          "buildVersion": "88",
+          "date": "2026-06-15",
+          "localizedDescription": "Tidier Today gauges",
+          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v3.7.1/NOOP-v3.7.1-ios.ipa",
+          "size": 7496669,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.7.0",
+          "buildVersion": "87",
+          "date": "2026-06-15",
+          "localizedDescription": "A round of fixes: steps, Insights & Health setup",
+          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v3.7.0/NOOP-v3.7.0-ios.ipa",
+          "size": 7471631,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "3.6.0",
           "buildVersion": "86",
           "date": "2026-06-15",
